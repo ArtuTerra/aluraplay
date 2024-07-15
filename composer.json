@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+        "Alura\\Mvc\\Entity\\": "src/Entity/",
+        "Alura\\Mvc\\Repository\\": "src/Repository/",
+        "Alura\\Mvc\\Controller\\": "src/Controller/"
+    }
+  }
+  
+}
